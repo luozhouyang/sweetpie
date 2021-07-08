@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sweetpie",
-    version="0.1.0",
+    version="0.1.1",
     description="A useful toolbox for Python!",
     long_description=long_description,
     long_description_content_type="text/markdown",
